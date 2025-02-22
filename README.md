@@ -5,4 +5,4 @@
 [Project Hub](https://projecthub.jgc.linkpc.net/) is a website and Discord server which helps you find the best OG Fortnite resources.
 
 ### Why is this a repo?
-Although the website is hosted on Google Sites, I need a GitHub repository to make it visible on my [web](http://jgc.linkpc.net/) and to use some  advanced features.
+Although the website is currently hosted on Google Sites, I need a GitHub repository to make it visible on my [web](http://jgc.linkpc.net/) and to use some  advanced features. **This will soon be a working API**.
