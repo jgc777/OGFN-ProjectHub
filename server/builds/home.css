@@ -1,0 +1,324 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #1a1a1a, #121212);
+    color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1100px;
+    width: 100%;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(10px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2.8rem;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    margin-bottom: 10px;
+    text-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.search-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+#search-bar {
+    padding: 14px;
+    flex-grow: 1;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    font-size: 1rem;
+    transition: 0.3s ease-in-out;
+    outline: none;
+}
+
+#search-bar:focus {
+    border-color: #00e5ff;
+    box-shadow: 0 0 10px rgba(0, 229, 255, 0.5);
+}
+
+button {
+    padding: 14px 22px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+#search-btn {
+    background: linear-gradient(135deg, #00e5ff, #008c99);
+    color: white;
+}
+
+#search-btn:hover {
+    background: linear-gradient(135deg, #008c99, #006b75);
+}
+
+.build-list {
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.build-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    background: rgba(255, 255, 255, 0.07);
+    border-radius: 12px;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    gap: 15px;
+}
+
+.build-card img {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.build-card h3 {
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 600;
+    text-align: left;
+    flex-grow: 1;
+    margin-right: 0;
+}
+
+.build-card p {
+    color: #bbb;
+    font-size: 1rem;
+    font-weight: 100;
+    margin-right: 15px;
+}
+
+.not-found {
+    color: #bbb;
+    text-align: center;
+}
+
+button.download-btn {
+    padding: 14px 22px;
+    font-size: 1rem;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+    text-align: center;
+    white-space: nowrap;
+    width: 150px;
+    height: 50px;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+button.download-btn.available {
+    background: linear-gradient(135deg, #4caf50, #388e3c);
+    color: #fff;
+}
+
+button.download-btn.available:hover {
+    background: linear-gradient(135deg, #388e3c, #2e7d32);
+}
+
+button.download-btn.unavailable {
+    background-color: #9e9e9e;
+    color: #fff;
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.download-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background: rgba(255, 255, 255, 0.07);
+    padding: 25px;
+    border-radius: 15px;
+    max-width: 500px;
+    width: 100%;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: center;
+}
+
+.modal-content h2 {
+    margin-bottom: 20px; /* Adds space below the heading */
+    font-size: 1.8rem;
+    color: #fff;
+    font-weight: 600;
+}
+
+.links-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+}
+
+.download-card {
+    display: flex;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.07);
+    padding: 12px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: 0.3s;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.download-card:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.download-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #00e5ff, #008c99);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 15px;
+}
+
+.download-card img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+}
+
+.download-info {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.download-info h3 {
+    font-size: 1.4rem;
+    color: #fff;
+    font-weight: 600;
+    text-align: left;
+}
+
+.download-info span {
+    font-size: 1rem;
+    color: #bbb;
+}
+
+.download-card a {
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+    background: linear-gradient(135deg, #4caf50, #388e3c);
+    transition: 0.3s;
+}
+
+.download-card a:hover {
+    background: linear-gradient(135deg, #388e3c, #2e7d32);
+}
+
+.close-btn {
+    background: linear-gradient(135deg, #00e5ff, #008c99);
+    color: white;
+    padding: 12px 22px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close-btn:hover {
+    background: linear-gradient(135deg, #008c99, #006b75);
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #bbb;
+}
+/*
+     FILE ARCHIVED ON 05:41:40 Mar 29, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:41:15 May 05, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.751
+  exclusion.robots: 0.031
+  exclusion.robots.policy: 0.014
+  esindex: 0.015
+  cdx.remote: 46.353
+  LoadShardBlock: 210.587 (3)
+  PetaboxLoader3.datanode: 127.32 (4)
+  PetaboxLoader3.resolve: 391.295 (2)
+  load_resource: 417.231
+*/

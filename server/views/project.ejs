@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title><%= proj.name %></title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="icon" href="/static/logos/projecthub.png" type="image/png">
+  </head>
+  <body>
+    <header>
+      <img src="/static/logos/<%= id %>.png">
+      <h1><%= proj.name %></h1>
+    </header>
+    <main>
+      <div class="description"><%- desc %></div>
+
+      <% if(proj.features){ %>
+        <section>
+          <h2>Features</h2>
+          <ul class="features"><% proj.features.forEach(f=>{ %>
+            <li><%= f %></li>
+          <% }) %></ul>
+        </section>
+      <% } %>
+
+      <% if(proj.versions){ %>
+        <section>
+          <h2>Versions</h2>
+          <ul class="versions">
+            <% if (proj.versions.latest) { %>
+              <li>Latest FN</li>
+            <% } %>
+            <% Object.entries(proj.versions).forEach(([name, version]) => { 
+              if (name !== "latest") { %>
+              <li><%= name %> (<%= Array.isArray(version) ? version.join(', ') : version %>)</li>
+            <% } }) %>
+            <% if(proj.timeline){ %>This is a Fortnite timeline project!<% } %>
+          </ul>
+        </section>
+      <% } %>
+
+      <% if(proj.status){ %>
+        <section>
+          <h2>Status</h2>
+          <%= proj.status %>
+          <% if(proj.eta){%><br></br>Estimated Time: <%= proj.eta %><% } %>
+        </section>
+      <% } %>
+
+      <% if(proj.platforms){ %>
+        <section>
+          <h2>Platforms</h2>
+          <ul class="platforms"><% proj.platforms.forEach(p=>{ %>
+          <li><%= p %></li>
+          <% }) %></ul>
+        </section>
+      <% } %>
+
+      <% if(proj.security){ %>
+        <section>
+          <h2>Security</h2>
+          <%= proj.security %>
+        </section>
+      <% } %>
+      
+      <% if(proj.socials){ %>
+        <section>
+          <h2>Links</h2>
+          <div class="socials">
+            <% for(const [platform, links] of Object.entries(proj.socials)){ %>
+              <% let linkArray = Array.isArray(links) ? links : [links]; %>
+              <% linkArray.forEach(link => { 
+                let full = link.startsWith('http') ? link : prefixes[platform] + link; 
+              %>
+                <a href="<%= full %>" target="_blank">
+                  <img src="/static/icons/<%= platform %>.png" alt="<%= platform %>">
+                </a>
+              <% }) %>
+            <% } %>
+          </div>
+        </section>
+      <% } %>
+      
+      <% if(proj.owners){ %>
+        <section>
+          <h2>Owners</h2>
+          <ul class="owners"><% for(const [n,u] of Object.entries(proj.owners)){ %>
+            <li><a href="<%=u%>" target="_blank"><%=n%></a></li>
+          <% } %></ul>
+        </section>
+      <% } %>
+
+      <% if(proj.related){ %>
+        <section>
+          <h2>Related</h2>
+          <ul><% proj.related.forEach(r=>{ %>
+            <li><a href="/<%=r%>"><%= projects[r].name %></a></li>
+          <% }) %>
+          </ul>
+        </section>
+      <% } %>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,124 @@
+{  
+  "$schema": "http://json-schema.org/draft-07/schema#",  
+  "title": "Project Definition Schema",  
+  "description": "Validates the structure of each project in Project Hub.",  
+  "type": "object",  
+  "patternProperties": {  
+    "^[a-z0-9\\-]+$": {  
+      "type": "object",  
+      "description": "Entry for a project identified by its key.",  
+      "properties": {  
+        "eta": {  
+          "type": ["string", "null"],  
+          "description": "Estimated release date or 'unknown'."  
+        },  
+        "flags": {  
+          "type": "array",  
+          "items": {  
+            "type": "string"  
+          },  
+          "description": "Project classification tags."  
+        },  
+        "features": {  
+          "type": "array",  
+          "items": {  
+            "type": "string"  
+          },  
+          "description": "List of main features."  
+        },  
+        "more": {  
+          "type": "string",  
+          "description": "Additional description or informational link."  
+        },  
+        "name": {  
+          "type": "string",  
+          "description": "Human-readable project name."  
+        },  
+        "owners": {  
+          "type": "object",  
+          "description": "Owners and links to their profiles.",  
+          "additionalProperties": {  
+            "type": "string"  
+          }  
+        },  
+        "partner": {  
+          "type": "boolean",  
+          "description": "Indicates if there is an official collaboration."  
+        },  
+        "platforms": {  
+          "type": "array",  
+          "items": {  
+            "type": "string"  
+          },  
+          "description": "Supported platforms."  
+        },  
+        "related": {  
+          "type": "array",  
+          "items": {  
+            "type": "string"  
+          },  
+          "description": "Related projects."  
+        },  
+        "security": {  
+          "type": "string",  
+          "description": "Level of trust or security."  
+        },  
+        "socials": {  
+          "type": "object",  
+          "description": "Social channels and links (can be identifiers).",  
+          "additionalProperties": {  
+            "oneOf": [  
+              {  
+                "type": "string"  
+              },  
+              {  
+                "type": "array",  
+                "items": {  
+                  "type": "string"  
+                }  
+              }  
+            ]  
+          }  
+        },  
+        "status": {  
+          "type": "string",  
+          "description": "Current status (online, offline, etc.)."  
+        },  
+        "timeline": {  
+          "type": "boolean",  
+          "description": "Whether it shows a version timeline."  
+        },  
+        "versions": {  
+          "oneOf": [  
+            {  
+              "type": "array",  
+              "items": {  
+                "type": "string"  
+              }  
+            },  
+            {  
+              "type": "object",  
+              "additionalProperties": {  
+                "oneOf": [  
+                  {  
+                    "type": "array",  
+                    "items": {  
+                      "type": "string"  
+                    }  
+                  },  
+                  {  
+                    "type": "string"  
+                  }  
+                ]  
+              }  
+            }  
+          ],  
+          "description": "Supported versions, either as a simple list or grouped by season."  
+        }  
+      },  
+      "required": ["name"],  
+      "additionalProperties": false  
+    }  
+  },  
+  "additionalProperties": false  
+}

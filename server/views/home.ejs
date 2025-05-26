@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Project Hub</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="icon" href="/static/logos/projecthub.png" type="image/png">
+  </head>
+  <body>
+    <header>
+      <img src="/static/logos/projecthub.png">
+      <h1>OG FN Project Hub by <a href="http://jgc777.github.io">Jgc7</a></h1>
+    </header>
+    <main>
+      <h2><a class="builds-link" href="/builds">Build List by Razer</a></h2>
+      <h2>Available Projects</h2>
+      <ul class="project-list">
+      <% list.forEach(([id,p])=>{ %>
+        <li><a href="/<%= id %>"><%= p.name %></a></li>
+      <% }) %>
+      </ul>
+    </main>
+  </body>
+</html>

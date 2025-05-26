@@ -1,0 +1,2072 @@
+{
+    "windows": [
+        {
+            "version": "1.7.2",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/1.7.2.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/1.7.2.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/1.7.2.zip"
+                }
+            ],
+            "season": "0",
+            "date": "17-10-17",
+            "ue_version": "4.16"
+        },
+        {
+            "version": "1.8",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/1.8.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/1.8.rar"
+                }
+            ],
+            "season": "1",
+            "date": "25-10-17",
+            "ue_version": "4.16"
+        },
+        {
+            "version": "1.8.1",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/1.8.1.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/1.8.1.rar"
+                }
+            ],
+            "season": "1",
+            "date": "02-11-17",
+            "ue_version": "4.16"
+        },
+        {
+            "version": "1.8.2",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/1.8.2.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/1.8.2.rar"
+                }
+            ],
+            "season": "1",
+            "date": "07-11-17",
+            "ue_version": "4.16"
+        },
+        {
+            "version": "1.9",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/1.9.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/1.9.rar"
+                }
+            ],
+            "season": "1",
+            "date": "13-11-17",
+            "ue_version": "4.16"
+        },
+        {
+            "version": "1.9.1",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/1.9.1.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/1.9.1.rar"
+                }
+            ],
+            "season": "1",
+            "date": "28-11-17",
+            "ue_version": "4.16"
+        },
+        {
+            "version": "1.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/1.10.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/1.10.rar"
+                }
+            ],
+            "season": "1",
+            "date": "06-12-17",
+            "ue_version": "4.19"
+        },
+        {
+            "version": "1.11",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/1.11.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/1.11.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/1.11.zip"
+                }
+            ],
+            "season": "2",
+            "date": "14-12-17",
+            "ue_version": "4.19"
+        },
+        {
+            "version": "2.1.0",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/2.1.0.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/2.1.0.zip"
+                }
+            ],
+            "season": "2",
+            "date": "09-01-18",
+            "ue_version": "4.19"
+        },
+        {
+            "version": "2.2.0",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/2.2.0.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/2.2.0.rar"
+                }
+            ],
+            "season": "2",
+            "date": "18-01-18",
+            "ue_version": "4.19"
+        },
+        {
+            "version": "2.3.0",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/2.3.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/2.3.rar"
+                }
+            ],
+            "season": "2",
+            "date": "25-01-18",
+            "ue_version": "4.19"
+        },
+        {
+            "version": "2.4.0",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/2.4.0.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/2.4.0.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/2.4.0.zip"
+                }
+            ],
+            "season": "2",
+            "date": "01-02-18",
+            "ue_version": "4.19"
+        },
+        {
+            "version": "2.4.1",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "2",
+            "date": "07-02-18",
+            "ue_version": "4.19"
+        },
+        {
+            "version": "2.4.2",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/2.4.2.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/2.4.2.zip"
+                }
+            ],
+            "season": "2",
+            "date": "08-02-18",
+            "ue_version": "4.19"
+        },
+        {
+            "version": "2.5.0",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/2.5.0.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/2.5.0.rar"
+                }
+            ],
+            "season": "2",
+            "date": "13-02-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "3.0",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/3.0.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/3.0.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/3.0.zip"
+                }
+            ],
+            "season": "3",
+            "date": "21-02-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "3.1",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/3.5.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/3.5.rar"
+                }
+            ],
+            "season": "3",
+            "date": "28-02-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "3.1.1",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/3.1.1.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/3.1.1.zip"
+                }
+            ],
+            "season": "3",
+            "date": "28-02-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "3.2",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/3.2.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/3.2.zip"
+                }
+            ],
+            "season": "3",
+            "date": "08-03-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "3.3",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/3.3.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/3.3.rar"
+                }
+            ],
+            "season": "3",
+            "date": "15-03-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "3.5",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/3.5.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/3.5.rar"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/3.5.zip"
+                }
+            ],
+            "season": "3",
+            "date": "11-04-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "3.6",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Eclipse",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.eclipsemp.org/3.6.zip"
+                }
+            ],
+            "season": "3",
+            "date": "24-04-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "4.0",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/4.0.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/4.0.zip"
+                }
+            ],
+            "season": "4",
+            "date": "02-05-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "4.1",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "GoFile",
+                    "link": "https://web.archive.org/web/20250329054141/https://gofile.io/d/PNuLSQ"
+                }
+            ],
+            "season": "4",
+            "date": "08-05-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "4.2",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/4.2.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/4.2.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/4.2.zip"
+                }
+            ],
+            "season": "4",
+            "date": "16-05-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "4.4",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/4.4.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/4.4.rar"
+                },
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view"
+                }
+            ],
+            "season": "4",
+            "date": "11-06-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "4.5",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/4.5.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/4.5.rar"
+                }
+            ],
+            "season": "4",
+            "date": "27-06-18",
+            "ue_version": "4.20"
+        },
+        {
+            "version": "5.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/5.00.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/5.00.rar"
+                }
+            ],
+            "season": "5",
+            "date": "12-07-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "5.01",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/5.0.1.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/5.0.1.rar"
+                }
+            ],
+            "season": "5",
+            "date": "12-07-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "5.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/5.10.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/5.10.rar"
+                }
+            ],
+            "season": "5",
+            "date": "25-07-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "5.21",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/5.21.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/5.21.rar"
+                }
+            ],
+            "season": "5",
+            "date": "15-08-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "5.30",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/5.30.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/5.30.rar"
+                },
+                {
+                    "provider": "Eclipse",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.eclipsemp.org/5.30.zip"
+                }
+            ],
+            "season": "5",
+            "date": "23-08-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "5.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/5.40.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/5.40.rar"
+                }
+            ],
+            "season": "5",
+            "date": "05-09-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "5.41",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Aufgeladen",
+                    "link": "https://web.archive.org/web/20250329054141/https://cdn.aufgeladen.dev/5.41.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/5.41.zip"
+                },
+                {
+                    "provider": "Eclipse",
+                    "link": "https://web.archive.org/web/20250329054141/http://builds.eclipsemp.org/5.41.zip"
+                }
+            ],
+            "season": "5",
+            "date": "18-09-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.00.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.00.rar"
+                }
+            ],
+            "season": "6",
+            "date": "27-09-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.01",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.01.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.01.rar"
+                }
+            ],
+            "season": "6",
+            "date": "03-10-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.01.1",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.1.1.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.1.1.rar"
+                }
+            ],
+            "season": "6",
+            "date": "03-10-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.02",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.02.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.02.rar"
+                }
+            ],
+            "season": "6",
+            "date": "10-10-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.02.1",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.2.1.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.2.1.rar"
+                }
+            ],
+            "season": "6",
+            "date": "10-10-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.10.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.10.rar"
+                }
+            ],
+            "season": "6",
+            "date": "16-10-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.10.1",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.10.1.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.10.1.zip"
+                }
+            ],
+            "season": "6",
+            "date": "16-10-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.10.2",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.10.2.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.10.2.rar"
+                }
+            ],
+            "season": "6",
+            "date": "16-10-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.20",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                },
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "6",
+            "date": "",
+            "ue_version": ""
+        },
+        {
+            "version": "6.21",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.21.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.21.rar"
+                },
+                {
+                    "provider": "Buzzheavier",
+                    "link": "https://web.archive.org/web/20250329054141/https://buzzheavier.com/x3mclasj48ai"
+                }
+            ],
+            "season": "6",
+            "date": "01-11-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.22",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.22.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.22.rar"
+                }
+            ],
+            "season": "6",
+            "date": "04-11-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.30",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.30.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.30.rar"
+                }
+            ],
+            "season": "6",
+            "date": "13-11-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "6.31",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/6.31.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/6.31.rar"
+                }
+            ],
+            "season": "6",
+            "date": "27-11-18",
+            "ue_version": "4.21"
+        },
+        {
+            "version": "7.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/7.00.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/7.00.rar"
+                }
+            ],
+            "season": "7",
+            "date": "06-12-18",
+            "ue_version": "4.22"
+        },
+        {
+            "version": "7.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/7.10.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/7.10.rar"
+                }
+            ],
+            "season": "7",
+            "date": "18-12-18",
+            "ue_version": "4.22"
+        },
+        {
+            "version": "7.20",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/7.20.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/7.20.rar"
+                }
+            ],
+            "season": "7",
+            "date": "22-01-19",
+            "ue_version": "4.22"
+        },
+        {
+            "version": "7.30",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/7.30.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/7.30.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/7.30.zip"
+                }
+            ],
+            "season": "7",
+            "date": "29-01-19",
+            "ue_version": "4.22"
+        },
+        {
+            "version": "7.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/7.40.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/7.40.rar"
+                }
+            ],
+            "season": "7",
+            "date": "13-02-19",
+            "ue_version": "4.22"
+        },
+        {
+            "version": "8.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/8.00.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/8.00.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/8.00.zip"
+                }
+            ],
+            "season": "8",
+            "date": "28-02-19",
+            "ue_version": "4.22"
+        },
+        {
+            "version": "8.20",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/8.20.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/8.20.rar"
+                }
+            ],
+            "season": "8",
+            "date": "27-03-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "8.30",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/8.30.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/8.30.rar"
+                }
+            ],
+            "season": "8",
+            "date": "10-04-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "8.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/8.40.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/8.40.zip"
+                }
+            ],
+            "season": "8",
+            "date": "17-04-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "8.50",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/8.50.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/8.50.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/8.50.zip"
+                }
+            ],
+            "season": "8",
+            "date": "25-04-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "8.51",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/8.51.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/8.51.rar"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/8.51.zip"
+                }
+            ],
+            "season": "8",
+            "date": "02-05-18",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "9.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/9.00.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/9.00.zip"
+                }
+            ],
+            "season": "9",
+            "date": "09-05-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "9.01",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/9.01.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/9.01.zip"
+                }
+            ],
+            "season": "9",
+            "date": "15-05-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "9.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/9.10.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/9.10.rar"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/9.10.zip"
+                }
+            ],
+            "season": "9",
+            "date": "19-05-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "9.21",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/9.21.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/9.21.zip"
+                }
+            ],
+            "season": "9",
+            "date": "12-06-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "9.30",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/9.30.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/9.30.zip"
+                }
+            ],
+            "season": "9",
+            "date": "09-07-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "9.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/9.40.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/9.40.zip"
+                }
+            ],
+            "season": "9",
+            "date": "17-07-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "9.41",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/9.41.rar"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/9.41.rar"
+                }
+            ],
+            "season": "9",
+            "date": "23-07-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "10.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/10.00.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/10.00.zip"
+                },
+                {
+                    "provider": "Solaris",
+                    "link": "https://web.archive.org/web/20250329054141/https://cdn.solarisfn.org/10.00.zip"
+                }
+            ],
+            "season": "10/X",
+            "date": "01-08-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "10.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/10.10.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/10.10.zip"
+                }
+            ],
+            "season": "10/X",
+            "date": "10-08-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "10.20",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/10.20.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/10.20.zip"
+                }
+            ],
+            "season": "10/X",
+            "date": "27-10-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "10.30",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                },
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "10/X",
+            "date": "12-09-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "10.31",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/10.31.zip"
+                },
+                {
+                    "provider": "Reboot",
+                    "link": "https://web.archive.org/web/20250329054141/https://builds.rebootfn.org/10.31.zip"
+                }
+            ],
+            "season": "10/X",
+            "date": "18-09-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "10.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/10.40.rar"
+                },
+                {
+                    "provider": "Solaris",
+                    "link": "https://web.archive.org/web/20250329054141/https://cdn.solarisfn.org/10.40.zip"
+                }
+            ],
+            "season": "10/X",
+            "date": "25-09-19",
+            "ue_version": "4.23"
+        },
+        {
+            "version": "11.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/11.00.zip"
+                },
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/11.00.zip"
+                }
+            ],
+            "season": "11",
+            "date": "15-10-19",
+            "ue_version": "4.24"
+        },
+        {
+            "version": "11.10",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1hTrWEigQBgBGkzIKXoc3R5VqW8GcefC3/view"
+                }
+            ],
+            "season": "11",
+            "date": "28-11-19",
+            "ue_version": "4.24"
+        },
+        {
+            "version": "11.30",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1QvpQkFZupxFym1T6s_RwGdBt2pVnWf8_/view"
+                }
+            ],
+            "season": "11",
+            "date": "12-12-19",
+            "ue_version": "4.24"
+        },
+        {
+            "version": "11.31",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/11.31.rar"
+                }
+            ],
+            "season": "11",
+            "date": "18-12-19",
+            "ue_version": "4.24"
+        },
+        {
+            "version": "11.50",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                },
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "11",
+            "date": "05-02-20",
+            "ue_version": "4.24"
+        },
+        {
+            "version": "12.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/12.00.rar"
+                }
+            ],
+            "season": "12",
+            "date": "20-02-20",
+            "ue_version": "4.24"
+        },
+        {
+            "version": "12.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Dropbox",
+                    "link": "https://web.archive.org/web/20250329054141/https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0"
+                }
+            ],
+            "season": "12",
+            "date": "15-03-20",
+            "ue_version": "4.24"
+        },
+        {
+            "version": "12.21",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/12.21.zip"
+                }
+            ],
+            "season": "12",
+            "date": "24-03-20",
+            "ue_version": "4.25"
+        },
+        {
+            "version": "12.41",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/Fortnite 12.41.zip"
+                },
+                {
+                    "provider": "Aufgeladen",
+                    "link": "https://web.archive.org/web/20250329054141/https://cdn.aufgeladen.dev/12.41.zip"
+                },
+                {
+                    "provider": "BoostedV2",
+                    "link": "https://web.archive.org/web/20250329054141/https://fnbuilds.boostedv2.dev/12.41.rar"
+                }
+            ],
+            "season": "12",
+            "date": "21-04-20",
+            "ue_version": "4.25"
+        },
+        {
+            "version": "12.50",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/12.50.zip"
+                }
+            ],
+            "season": "12",
+            "date": "29-04-20",
+            "ue_version": "4.25"
+        },
+        {
+            "version": "12.61",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/12.61.zip"
+                }
+            ],
+            "season": "12",
+            "date": "26-05-20",
+            "ue_version": "4.25"
+        },
+        {
+            "version": "13.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/13.00.rar"
+                }
+            ],
+            "season": "13",
+            "date": "17-06-20",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "13.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/13.40.zip"
+                }
+            ],
+            "season": "13",
+            "date": "05-08-20",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "14.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/14.00.rar"
+                }
+            ],
+            "season": "14",
+            "date": "25-08-20",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "14.30",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/117H8_xWOQKLuUNQ2Jm56UtK7ooFTzdMq/view"
+                }
+            ],
+            "season": "14",
+            "date": "13-10-20",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "14.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/14.40.rar"
+                }
+            ],
+            "season": "14",
+            "date": "21-10-20",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "14.60",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/14.60.rar"
+                }
+            ],
+            "season": "14",
+            "date": "18-11-20",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "15.00",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1iiZdgbc42_o_d3vE2aIHDIT7LzxXJaKB/view"
+                }
+            ],
+            "season": "15",
+            "date": "02-12-20",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "15.10",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "15",
+            "date": "15-12-20",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "15.30",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/15.30.rar"
+                }
+            ],
+            "season": "15",
+            "date": "02-02-21",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "15.50",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/15.50.zip"
+                }
+            ],
+            "season": "15",
+            "date": "02-03-21",
+            "ue_version": "4.26"
+        },
+        {
+            "version": "16.00",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "16",
+            "date": "16-03-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "16.10",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "16",
+            "date": "30-03-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "16.30",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view"
+                }
+            ],
+            "season": "16",
+            "date": "27-04-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "16.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/16.40.rar"
+                }
+            ],
+            "season": "16",
+            "date": "11-05-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "16.50",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "GalaxiaFN",
+                    "link": "https://web.archive.org/web/20250329054141/https://galaxiafn.co.uk/16.50.zip"
+                }
+            ],
+            "season": "16",
+            "date": "25-05-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "17.10",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1KQHMQX-2-douvRdtQ1cnhp_USJsSWALY/view"
+                }
+            ],
+            "season": "17",
+            "date": "22-06-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "17.30",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/17.30.zip"
+                }
+            ],
+            "season": "17",
+            "date": "03-08-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "17.40",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1b89_PChqKYD9u-LlEIo6XnJ_yA4z4a7z/view"
+                }
+            ],
+            "season": "17",
+            "date": "17-08-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "17.50",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/17.50.zip"
+                },
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view"
+                }
+            ],
+            "season": "17",
+            "date": "31-08-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "18.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view"
+                }
+            ],
+            "season": "18",
+            "date": "24-09-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "18.10",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "18",
+            "date": "27-09-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "18.20",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view"
+                }
+            ],
+            "season": "18",
+            "date": "12-10-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "18.21",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "18",
+            "date": "19-10-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "18.30",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "18",
+            "date": "26-10-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "18.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/18.40.zip"
+                }
+            ],
+            "season": "18",
+            "date": "16-11-21",
+            "ue_version": "4.26.1"
+        },
+        {
+            "version": "19.00",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "19",
+            "date": "05-12-21",
+            "ue_version": "5.0"
+        },
+        {
+            "version": "19.01",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Ploosh",
+                    "link": "https://web.archive.org/web/20250329054141/https://r2.ploosh.dev/19.01.zip"
+                },
+                {
+                    "provider": "Internet Archive",
+                    "link": "https://web.archive.org/web/20250329054141/https://archive.org/details/fortnite-19.01.7z"
+                }
+            ],
+            "season": "19",
+            "date": "14-12-21",
+            "ue_version": "5.0"
+        },
+        {
+            "version": "19.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/19.10.rar"
+                }
+            ],
+            "season": "19",
+            "date": "18-01-22",
+            "ue_version": "5.0"
+        },
+        {
+            "version": "20.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Blk",
+                    "link": "https://web.archive.org/web/20250329054141/https://public.simplyblk.xyz/20.40.zip"
+                }
+            ],
+            "season": "20",
+            "date": "17-05-22",
+            "ue_version": "5.1"
+        },
+        {
+            "version": "21.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view"
+                },
+                {
+                    "provider": "Solaris",
+                    "link": "https://web.archive.org/web/20250329054141/https://cdn.solarisfn.org/21.00.zip"
+                },
+                {
+                    "provider": "Ploosh",
+                    "link": "https://web.archive.org/web/20250329054141/https://r2.ploosh.dev/21.00.zip"
+                }
+            ],
+            "season": "21",
+            "date": "05-06-22",
+            "ue_version": "5.1"
+        },
+        {
+            "version": "21.10",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "21",
+            "date": "21-06-22",
+            "ue_version": "5.1"
+        },
+        {
+            "version": "21.20",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "21",
+            "date": "06-07-22",
+            "ue_version": "5.1"
+        },
+        {
+            "version": "21.50",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "21",
+            "date": "30-08-22",
+            "ue_version": "5.1"
+        },
+        {
+            "version": "22.20",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "22",
+            "date": "18-10-22",
+            "ue_version": ""
+        },
+        {
+            "version": "22.40",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "22",
+            "date": "15-11-22",
+            "ue_version": ""
+        },
+        {
+            "version": "24.20",
+            "status": "lost",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "24",
+            "date": "11-04-23",
+            "ue_version": ""
+        },
+        {
+            "version": "24.30",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "24",
+            "date": "02-05-23",
+            "ue_version": ""
+        },
+        {
+            "version": "26.20",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "GoFile",
+                    "link": "https://web.archive.org/web/20250329054141/https://gofile.io/d/MPwIvf"
+                }
+            ],
+            "season": "26",
+            "date": "26-09-23",
+            "ue_version": ""
+        },
+        {
+            "version": "26.30",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "",
+                    "link": ""
+                }
+            ],
+            "season": "26",
+            "date": "10-10-23",
+            "ue_version": ""
+        },
+        {
+            "version": "27.00",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "GoFile",
+                    "link": "https://web.archive.org/web/20250329054141/https://gofile.io/d/JucYai"
+                }
+            ],
+            "season": "27/OG",
+            "date": "03-11-23",
+            "ue_version": "5.4"
+        },
+        {
+            "version": "27.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "GoFile",
+                    "link": "https://web.archive.org/web/20250329054141/https://gofile.io/d/XsU1fV"
+                }
+            ],
+            "season": "27/OG",
+            "date": "16-11-23",
+            "ue_version": "5.4"
+        },
+        {
+            "version": "27.11",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "GoFile",
+                    "link": "https://web.archive.org/web/20250329054141/https://gofile.io/d/cBUDZ9"
+                }
+            ],
+            "season": "27/OG",
+            "date": "21-11-23",
+            "ue_version": "5.4"
+        },
+        {
+            "version": "28.20",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "GoFile",
+                    "link": "https://web.archive.org/web/20250329054141/https://gofile.io/d/AFyKBP"
+                }
+            ],
+            "season": "28",
+            "date": "",
+            "ue_version": ""
+        },
+        {
+            "version": "29.00",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "GoFile",
+                    "link": "https://web.archive.org/web/20250329054141/https://gofile.io/d/un70Ro"
+                }
+            ],
+            "season": "29",
+            "date": "08-03-24",
+            "ue_version": "5.5"
+        },
+        {
+            "version": "29.40",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "SwissTransfer",
+                    "link": "https://web.archive.org/web/20250329054141/https://www.swisstransfer.com/d/a9e20060-5ef4-44bb-8136-764cfaaf5831"
+                }
+            ],
+            "season": "29",
+            "date": "01-05-24",
+            "ue_version": "5.5"
+        },
+        {
+            "version": "30.00",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view?usp=sharing"
+                }
+            ],
+            "season": "30",
+            "date": "24-05-24",
+            "ue_version": "5.5"
+        },
+        {
+            "version": "31.00",
+            "status": "unavailable",
+            "links": [
+                {
+                    "provider": "GoFile",
+                    "link": "https://web.archive.org/web/20250329054141/https://gofile.io/d/WTrPy2"
+                }
+            ],
+            "season": "31",
+            "date": "16-08-24",
+            "ue_version": "5.5"
+        },
+        {
+            "version": "32.11",
+            "status": "unavailable",
+            "links": [],
+            "season": "32/Remix",
+            "date": "21-11-24",
+            "ue_version": "5.5"
+        },
+        {
+            "version": "34.10",
+            "status": "available",
+            "links": [
+                {
+                    "provider": "Google Drive",
+                    "link": "https://web.archive.org/web/20250329054141/https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view"
+                }
+            ],
+            "season": "34",
+            "date": "11-03-25",
+            "ue_version": "5.5"
+        }
+    ],
+    "ios": [],
+    "console": []
+}
